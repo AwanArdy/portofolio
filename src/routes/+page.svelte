@@ -1,13 +1,18 @@
 <main class="pt-20 p-8">
     <!-- Home -->
-    <section id="home" class="h-screen flex flex-col justify-center items-center">
+    <!-- <section id="home" class="h-screen flex flex-col justify-center items-center">
         <h1 class="text-4xl font-bold text-black mb-4">
             Selamat datang di Portofolio saya
         </h1>
         <p class="text-lg text-center text-textGray max-w-lg">
             Saya adalah seorang web developer
         </p>
-    </section>
+    </section> -->
+    <div class="flex flex-col justify-center items-center min-h-screen bg-gray-100 text-center">
+        <p class="text-lg text-gray-600">Halo, nama saya</p>
+        <h1 class="text-6xl md:text-8xl font-bold text-orange-500 my-4">Awan Ardy</h1>
+        <p class="text-xl md:text-2xl text-gray-700">Saya adalah web developer</p>
+    </div>
 
     <!-- About -->
     <section id="about" class="mb-20">
