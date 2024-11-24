@@ -18,9 +18,9 @@
 </style>
 
 <header class="backdrop-blur-sm drop-shadow-md fixed top-0 left-0 w-full z-10 p-4 flex justify-between items-center">
-	<div class="text-2xl font-bold text-black ml-4">Awan Ardy</div>
+	<div class="font-serif1 text-2xl font-extrabold text-primary ml-4">Awan Ardy</div>
 
-	<nav class="flex space-x-8 text-black text-lg font-semibold">
+	<nav class="flex space-x-8 text-black text-lg font-serif1 font-semibold">
 		{#each sections as section}
 			<a href={section.link} class="hover:text-primary transition duration-300">{section.name}</a>
 		{/each}

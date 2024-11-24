@@ -18,6 +18,9 @@ export default {
 			fontFamily: {
 				serif1: ["Chakra Petch", 'serif'],
 				serif2: ['Montserrat', 'serif']
+			},
+			backgroundImage: {
+				'hero-pattern': "url('./src/assets/grid.svg')"
 			}
 		}
 	},
