@@ -14,6 +14,10 @@ export default {
 				base: '#F8F8F8',
 				textGray: '#D7D9D8',
 				black: '#000000'
+			},
+			fontFamily: {
+				serif1: ["Chakra Petch", 'serif'],
+				serif2: ['Montserrat', 'serif']
 			}
 		}
 	},

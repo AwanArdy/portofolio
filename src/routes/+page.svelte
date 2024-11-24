@@ -9,8 +9,8 @@
         </p>
     </section> -->
     <div class="flex flex-col justify-center items-center min-h-screen bg-gray-100 text-center">
-        <p class="text-lg text-gray-600">Halo, nama saya</p>
-        <h1 class="text-6xl md:text-8xl font-bold text-orange-500 my-4">Awan Ardy</h1>
+        <p class="font-serif2 text-lg font-bold text-gray-600">Halo semua, nama saya</p>
+        <h1 class="font-serif1 text-6xl md:text-8xl font-black text-orange-500 my-4">Awan Ardy</h1>
         <p class="text-xl md:text-2xl text-gray-700">Saya adalah web developer</p>
     </div>
 
