@@ -7,6 +7,10 @@
 		{ name: 'Portofolio', link: '#portofolio' },
 		{ name: 'Kontak', link: '#contact' }
 	];
+
+	function toogleMenu() {
+		isMenuOpen = !isMenuOpen;
+	}
 </script>
 
 <style>
